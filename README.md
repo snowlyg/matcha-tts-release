@@ -2,8 +2,6 @@
 
 Matcha zh-en 离线神经 TTS 引擎的 Android 发布仓库（APK 分发）。基于 sherpa-onnx 1.12.18，装完即用、完全离线、不联网。
 
-源码与训练工程在私有仓库维护，本仓库只存放可安装的 APK 发布件。
-
 ## 下载
 
 到 [Releases](https://github.com/snowlyg/matcha-tts-release/releases) 页面，按设备 ABI 选择对应 APK：
